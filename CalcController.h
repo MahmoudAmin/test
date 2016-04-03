@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CalcController.h
 //  SimpleCalculator
 //
 //  Created by Mahmoud Amin on 3/8/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CalcController : UIViewController
 
 @end
-
